@@ -3,7 +3,7 @@
 
 
 ## Descripción
-Este proyecto contiene mi carta perfil personal, diseñada para presentar de manera concisa y atractiva mi experiencia, proyectos realizados y mis redes sociales. La carta perfil es una herramienta útil para mostrar mi trayectoria profesional de manera visual y accesible.
+Este proyecto contiene mi carta perfil personal, diseñada para presentar de manera breve y atractiva mi experiencia y mis redes sociales. La carta perfil es una herramienta útil para mostrar mi trayectoria profesional de manera visual y accesible.
 
 ## Contenido
 - Información breve

@@ -15,7 +15,7 @@ Puedes visualizar mi carta perfil abriendo el archivo `index.html` en tu navegad
 ## Tecnologías Utilizadas
 - HTML
 - CSS
-- JavaScript
+- SASS
 
 ## Capturas de Pantalla
 ![Vista previa de la Carta Perfil](img/captura.png)
